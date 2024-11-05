@@ -1,7 +1,7 @@
 ---------------------------
 
 ---------------------------
-{username:dads:password:NwQHAQ==:hwid:BFEBFBFF00090675
+{username:adm:password:MgEO:hwid:BFEBFBFF00090675
 ---------------------------
 OK   
 ---------------------------
